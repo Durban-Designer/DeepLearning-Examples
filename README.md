@@ -4,19 +4,21 @@ This is a Collection of Deep learning Examples written in Javascript, Quasar, an
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get your copy of the project up and running on your local machine for development purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
 Quasar CLI
-...
+
+```
 npm install --save quasar-cli -g
-...
+```
 
 Vue CLI
-...
+
+```
 npm install --save vue-cli -g
-...
+```
 
 ### Installing
 
@@ -41,10 +43,10 @@ This will open the application in your default browser and automatically rebuild
 
 To build for production run;
 
-...
+```
 quasar clean
 quasar build
-...
+```
 
 ## Built With
 
