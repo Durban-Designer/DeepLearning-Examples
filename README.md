@@ -55,20 +55,12 @@ quasar build
 * [Synaptic.js](http://caza.la/synaptic/#/) - Used to generate and train Neural Networks
 * [Brain.js](https://github.com/BrainJS/brain.js) - Used to generate and train Neural Networks
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
 * **Royce Birnbaum** - *Initial work* - [Durban-Designer](https://github.com/Durban-Designer)
 * **Kris St. John** - *Initial work* - [Spiralis-Solutions](https://github.com/Spiralis-Solutions)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
