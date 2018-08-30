@@ -60,8 +60,6 @@ quasar build
 * **Royce Birnbaum** - *Initial work* - [Durban-Designer](https://github.com/Durban-Designer)
 * **Kris St. John** - *Initial work* - [Spiralis-Solutions](https://github.com/Spiralis-Solutions)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## Acknowledgments
 
 * Razvan Stoenescu for making Quasar Framework which is by and large the most amazingly useful technology in my toolbelt other than Vue.js
