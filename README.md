@@ -59,7 +59,7 @@ quasar build
 
 * **Royce Birnbaum** - [Durban-Designer](https://github.com/Durban-Designer)
 * **Kris St. John** - [Spiralis-Solutions](https://github.com/Spiralis-Solutions)
-* **Avery Angel** - [MxKibbN](https://github.com/McKibbN)
+* **Avery Angel** - [McKibbN](https://github.com/McKibbN)
 * **Bon Goodman** - [Grapetoast](https://github.com/Grapetoast)
 
 ## Acknowledgments
