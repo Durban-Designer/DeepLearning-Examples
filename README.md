@@ -57,8 +57,10 @@ quasar build
 
 ## Authors
 
-* **Royce Birnbaum** - *Initial work* - [Durban-Designer](https://github.com/Durban-Designer)
-* **Kris St. John** - *Initial work* - [Spiralis-Solutions](https://github.com/Spiralis-Solutions)
+* **Royce Birnbaum** - [Durban-Designer](https://github.com/Durban-Designer)
+* **Kris St. John** - [Spiralis-Solutions](https://github.com/Spiralis-Solutions)
+* **Avery Angel** - [Spiralis-Solutions](https://github.com/McKibbN)
+* **Bon Goodman** - [Spiralis-Solutions](https://github.com/Grapetoast)
 
 ## Acknowledgments
 
